@@ -9,7 +9,6 @@ plugins=(git)
 source $ZSH/oh-my-zsh.sh
 
 export LANG=en_US.UTF-8
-export PATH=/opt/homebrew/opt/postgresql@16/bin:$PATH
 
 source /opt/homebrew/opt/chruby/share/chruby/chruby.sh
 source /opt/homebrew/opt/chruby/share/chruby/auto.sh
